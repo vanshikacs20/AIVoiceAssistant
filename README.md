@@ -11,7 +11,7 @@ Recognizes spoken Hindi commands from farmers.
 # Installation
 
 1. Navigate to the project folder : cd your-repo-name
-2. Install the required Python libraries : pip install SpeechaRecognition gTTS playsound pyaudio
+2. Install the required Python libraries : pip install SpeechRecognition gTTS playsound pyaudio
 
 # Usage
 
@@ -23,7 +23,7 @@ Recognizes spoken Hindi commands from farmers.
 
 1. Python 3.8 or higher
 2. Microphone access on your system
-3. Internet connection for speech recognlion and text-to-speech
+3. Internet connection for speech recognition  and text-to-speech
 
 Please create a pull request or open an issue to discuss changes before contributing.
 
