@@ -21,9 +21,9 @@ Recognizes spoken Hindi commands from farmers.
 
 # Requirements
 
-• Python 3.8 or higher
-• Microphone access on your system
-• Internet connection for speech recognlion and text-to-speech
+1. Python 3.8 or higher
+2. Microphone access on your system
+3. Internet connection for speech recognlion and text-to-speech
 
 Please create a pull request or open an issue to discuss changes before contributing.
 
