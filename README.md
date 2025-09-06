@@ -4,9 +4,9 @@ A Python-based voice assistant designed to understand and respond in Hindi, help
 
 # Features
 
-● Easy-to-use interface for farmers with limited digital experience.
-● Provides text-to-speech responses with practical farming guidance.
-● Recognizes spoken Hindi commands from farmers.
+Easy-to-use interface for farmers with limited digital experience.
+Provides text-to-speech responses with practical farming guidance.
+Recognizes spoken Hindi commands from farmers.
 
 # Installation
 
